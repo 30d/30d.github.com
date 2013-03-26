@@ -33,7 +33,7 @@ module JB
     def self.build(path, opts = {})
       opts[:root] ||= SOURCE
       path = "#{opts[:root]}/#{Paths[path.to_sym]}/#{opts[:node]}".split("/")
-      path.compact!
+      30d.mepact!
       File.__send__ :join, path
     end
   
