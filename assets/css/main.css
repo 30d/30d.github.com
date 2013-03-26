@@ -298,11 +298,11 @@ body { line-height: 100% }
     width: 400px;
 }
 .view-pages .content a {
-    border-bottom: 1px solid #ffceca;
-    color: #e41f11;
+    border-bottom: 1px solid #F39C12;
+    color: #E67E22;
     text-decoration: none;
 }
-.view-pages .content a:hover { border-color: #e41f11 }
+.view-pages .content a:hover { border-color: #E67E22 }
 .view-pages .content strong,
 .view-pages .content strong a { font-weight: bold }
 .view-pages .content em { font-style: italic }
