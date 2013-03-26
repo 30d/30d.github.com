@@ -99,11 +99,13 @@ body {
 /* Carousel base class */
 .carousel {
   margin-bottom: 60px;
+  background-color: #fe7100;
 }
 
 .carousel .container {
   position: relative;
   z-index: 9;
+  height: 100%;
 }
 
 .carousel-control {
@@ -123,16 +125,16 @@ body {
   position: absolute;
   top: 0;
   left: 0;
-  min-width: 100%;
+/*  min-width: 100%;*/  
   height: 500px;
 }
 
 .carousel-caption {
   background-color: transparent;
-  position: static;
+  position: absolute;
   max-width: 550px;
   padding: 0 20px;
-  margin-top: 200px;
+  bottom: 10%;
 }
 .carousel-caption h1,
 .carousel-caption .lead {
@@ -143,6 +145,10 @@ body {
 }
 .carousel-caption .btn {
   margin-top: 10px;
+
+  -webkit-border-radius: 22px;
+  -moz-border-radius: 22px;
+  border-radius: 22px;
 }
 
 
@@ -284,12 +290,12 @@ body {
 ================================================== -->
 <div id="myCarousel" class="carousel slide">
     <div class="item active">
-      <img src="../assets/img/examples/slide-01.jpg" alt="">
+      <img src="../assets/img/challenge-banner.png" alt="">
       <div class="container">
         <div class="carousel-caption">
-          <h1>Example headline.</h1>
-          <p class="lead">Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
-          <a class="btn btn-large btn-primary" href="#">Sign up today</a>
+          <h1></h1>
+          <p class="lead"></p>
+          <a class="btn btn-large btn-primary" href="http://app.30d.me" target="_blank">Download from Appstore</a>
         </div>
       </div>
     </div>
@@ -308,20 +314,20 @@ body {
   <div class="row">
     <div class="span4">
       <img class="img-circle" data-src="holder.js/140x140">
-      <h2>Heading</h2>
-      <p>Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod. Nullam id dolor id nibh ultricies vehicula ut id elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Praesent commodo cursus magna, vel scelerisque nisl consectetur et.</p>
+      <h2>It's time for programming!</h2>
+      <p>How many times did you plan to learn programming? Let's do it now. Today is a good time.</p>
       <p><a class="btn" href="#">View details &raquo;</a></p>
     </div><!-- /.span4 -->
     <div class="span4">
       <img class="img-circle" data-src="holder.js/140x140">
-      <h2>Heading</h2>
-      <p>Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cras mattis consectetur purus sit amet fermentum. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
+      <h2>30 Day iOS Challenge</h2>
+      <p>Programming is not a skill, it's a habit! Give yourself a challenge for a minimum of 30 days learning programming.</p>
       <p><a class="btn" href="#">View details &raquo;</a></p>
     </div><!-- /.span4 -->
     <div class="span4">
       <img class="img-circle" data-src="holder.js/140x140">
-      <h2>Heading</h2>
-      <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
+      <h2>Keep yourself motivated</h2>
+      <p>Learning is hard. Keep yourself motivated by tracking your progress everyday. Helping friends to learn iOS also.</p>
       <p><a class="btn" href="#">View details &raquo;</a></p>
     </div><!-- /.span4 -->
   </div><!-- /.row -->
@@ -359,10 +365,10 @@ body {
 
 
   <!-- FOOTER -->
-  <!-- <footer>
+   <footer>
     <p class="pull-right"><a href="#">Back to top</a></p>
-    <p>&copy; 2013 Company, Inc. &middot; <a href="#">Privacy</a> &middot; <a href="#">Terms</a></p>
-  </footer> -->
+    <p>&copy; 2013 Challenge App. &middot; <a href="privacy/">Privacy</a> &middot; <a href="#">Terms</a></p>
+  </footer>
 
 </div><!-- /.container -->
 
