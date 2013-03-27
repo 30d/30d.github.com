@@ -203,6 +203,8 @@ body {
   border-style:solid;
   border-color: gray;
   border-width: 2px;
+  width: 640px;
+  height: 360px;
 }
 
 
@@ -236,7 +238,6 @@ body {
   .featurette-image.pull-right {
     display: block;
     float: none;
-    max-width: 40%;
     margin: 0 auto 20px;
   }
 }
@@ -286,6 +287,10 @@ body {
     line-height: 1.5;
   }
 
+  .tedvideo {
+    width: 100%;
+    max-width: 640px;
+  }
 }
 </style>
 </header>
@@ -340,7 +345,7 @@ body {
     <!-- <img class="featurette-image pull-right" src="../assets/img/examples/browser-icon-chrome.png"> -->
     <div class="featurette-image pull-right">
       <p class="lead">Watch this inpiring TED talk</p>
-        <iframe class="tedvideo" src="http://embed.ted.com/talks/lang/en/matt_cutts_try_something_new_for_30_days.html" width="640" height="360" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+        <iframe class="tedvideo" src="http://embed.ted.com/talks/lang/en/matt_cutts_try_something_new_for_30_days.html" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
     </div>
     <h2 class="featurette-heading">30 Days Challenge. <span class="muted"></span></h2>
     <p class="lead">Build a new habit in the next 30 days.</p>
