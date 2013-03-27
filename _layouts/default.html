@@ -14,7 +14,7 @@
 
 <!--     <link rel="shortcut icon" href=""> -->    
 
-    <link rel="stylesheet" media="all" href="assets/css/main.css">
+    <link rel="stylesheet" media="all" href="{{ ASSET_PATH }}/assets/css/main.css">
     
     <style type="text/css"></style>
 
@@ -22,11 +22,15 @@
 
 <body onload="window.top.scrollTo(0,1);" data-current-user="null" data-is-mobile="false" data-is-ios="false" data-referrer="null" data-referrer-id="null">
 
+    <div class="pages_banner">
+        <div class="pages_banner view-pages">
+            <a href="http://30d.me/" class="logo">Challenge</a>
+        </div>
+    </div>
+
     <div class="view view-pages view-pages_about">
-        
 
     <div class="pages_menu">
-    <a href="http://30d.me/" class="logo">Challenge</a>
 
     <ul class="page-set">
     
@@ -34,24 +38,26 @@
             <a href="http://blog.30d.me/" rel="external">Blog</a>
         </li>
     
-        <li class="page selected">
+<!--         <li class="page selected">
             <a href="about.html">About</a>
-        </li>
+        </li> -->
     
-        <li class="page">
+<!--         <li class="page">
             <a href="https://30d.me/team.html">Team</a>
-        </li>
-    
+        </li> -->
+<!--     
         <li class="page">
             <a href="http://30d.me/jobs" rel="external">Jobs</a>
-        </li>
+        </li> -->
     
     </ul>
 
     <p class="copyright">Challenge App © 2013</p>
 </div>
 
-    <div class="content" style="padding-top: 150px;">
+    <div class="content">
+        <h1>{{ page.title }} {% if page.tagline %} <small>{{ page.tagline }}</small>{% endif %}</h1>
+
         {{ content }}
     </div>
 

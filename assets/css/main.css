@@ -288,14 +288,14 @@ body { line-height: 100% }
     margin: 0 auto;
     overflow: hidden;
     padding: 0 30px;
-    width: 550px;
+    width: 650px;
 }
 .view-pages .content {
     color: #4f4f4f;
     float: left;
     font-size: 116%;
-    padding: 80px 0 40px;
-    width: 400px;
+    padding: 0px 0 40px;
+    width: 500px;
 }
 .view-pages .content a {
     border-bottom: 1px solid #F39C12;
@@ -364,6 +364,11 @@ body { line-height: 100% }
   .view-pages .secondary-menu { padding-left: 0 }
 }
 
+.pages_banner {
+  background-color: #fe7100;
+  margin-bottom: 50px;
+}
+
 .pages_menu {
     float: left;
     padding-top: 0px;
@@ -371,15 +376,14 @@ body { line-height: 100% }
     width: 150px;
 }
 
-.pages_menu .logo {
+.logo {
     background: url('../img/challenge-logo.png') no-repeat 0 0;
     display: block;
-    margin-bottom: 50px;
     text-indent: -999em;
     width: 243px;
     height: 125px;
 }
-.pages_menu .logo:active {
+.logo:active {
     position: relative;
     top: 1px;
 }
@@ -424,7 +428,7 @@ body { line-height: 100% }
       padding: 30px 0;
       width: auto;
   }
-  .pages_menu .logo { margin: 0 auto 35px }
+  .logo { margin: 0 auto 35px }
   .pages_menu .page-set {
       margin: 0 -10px;
       text-align: center;
@@ -443,7 +447,7 @@ body { line-height: 100% }
   .pages_menu .copyright { display: none }
 }
 @media only screen and (-webkit-min-device-pixel-ratio:2) { 
-  .pages_menu .logo {
+  .logo {
       background-image: url('../img/challenge-logo@2x.png');
       background-size: cover;
   }
