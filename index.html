@@ -199,6 +199,11 @@ body {
   letter-spacing: -1px;
 }
 
+.tedvideo {
+  border-style:solid;
+  border-color: gray;
+  border-width: 2px;
+}
 
 
 /* RESPONSIVE CSS
@@ -322,7 +327,7 @@ body {
     </div><!-- /.span4 -->
     <div class="span4">
       <h2>Keep yourself motivated!</h2>
-      <p>Learning is hard. Keep yourself motivated by tracking your progress everyday. Also challenge a friend to learn with you.</p>
+      <p>Learning is hard. Keep yourself motivated by tracking your progress everyday. Also challenge a friend to learn with you!</p>
     </div><!-- /.span4 -->
   </div><!-- /.row -->
 
@@ -332,31 +337,35 @@ body {
   <hr class="featurette-divider">
 
   <div class="featurette">
-    <img class="featurette-image pull-right" src="../assets/img/examples/browser-icon-chrome.png">
-    <h2 class="featurette-heading">First featurette headling. <span class="muted">It'll blow your mind.</span></h2>
-    <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
+    <!-- <img class="featurette-image pull-right" src="../assets/img/examples/browser-icon-chrome.png"> -->
+    <div class="featurette-image pull-right">
+      <p class="lead">Watch this inpiring TED talk</p>
+        <iframe class="tedvideo" src="http://embed.ted.com/talks/lang/en/matt_cutts_try_something_new_for_30_days.html" width="640" height="360" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+    </div>
+    <h2 class="featurette-heading">30 Days Challenge. <span class="muted"></span></h2>
+    <p class="lead">Build a new habit in the next 30 days.</p>
   </div>
 
   <hr class="featurette-divider">
 
   <div class="featurette">
-    <img class="featurette-image pull-left" src="../assets/img/examples/browser-icon-firefox.png">
-    <h2 class="featurette-heading">Oh yeah, it's that good. <span class="muted">See for yourself.</span></h2>
-    <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
+    <img class="featurette-image pull-left" src="../assets/img/index/30d-calendar.png">
+    <h2 class="featurette-heading">Track your progress.<span class="muted"></span></h2>
+    <p class="lead">Log your progress down into a notebook or use Challenge App. This is very important for your success! <br /> Recall what you learn, then type it down really helps you remember lessons better.</p>
   </div>
 
   <hr class="featurette-divider">
 
   <div class="featurette">
-    <img class="featurette-image pull-right" src="../assets/img/examples/browser-icon-safari.png">
-    <h2 class="featurette-heading">And lastly, this one. <span class="muted">Checkmate.</span></h2>
-    <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
+    <img class="featurette-image pull-right" src="../assets/img/index/push.jpg">
+    <h2 class="featurette-heading">Find someone to push you.<span class="muted"></span></h2>
+    <p class="lead">Connect with a coach or a small group of friends to help you finish your challenge.<br />
+      Answer questions is also another way to learn. Remember to encourage your peers to achieve their challenge.</p>
   </div>
 
   <hr class="featurette-divider">
 
   <!-- /END THE FEATURETTES -->
-
 
   <!-- FOOTER -->
    <footer>
