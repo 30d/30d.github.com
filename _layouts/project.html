@@ -16,7 +16,21 @@
 
     <link rel="stylesheet" media="all" href="{{ ASSET_PATH }}/assets/css/main.css">
     
-    <style type="text/css"></style>
+    <style type="text/css">
+
+        .pages_menu .page-set .page {   
+        display: inline-block;
+        position: static;
+        }
+
+        .pages_menu {
+            width: 100%;
+        }
+
+        .pages_menu .page-set {
+            width: auto;
+        }
+    </style>
 
 </head>
 
@@ -30,6 +44,19 @@
 
     <div class="view view-pages view-pages_about">
 
+    <div class="pages_menu" style="padding-bottom: 30px;">
+
+    <ul class="page-set">
+    
+        <li class="page selected">
+            <a href="http://blog.30d.me/" rel="external">Introduction</a>
+        </li>
+    
+<!--         <li class="page selected">
+            <a href="http://blog.30d.me/" rel="external">Team</a>
+        </li> -->
+    </ul>
+    </div>
 
     <div class="content">
 <!--         <h1>{{ page.title }} {% if page.tagline %} <small>{{ page.tagline }}</small>{% endif %}</h1>
