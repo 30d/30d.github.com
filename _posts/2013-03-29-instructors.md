@@ -1,6 +1,6 @@
 ---
 layout: post
-category : [challenge, ios]
+category : challenge
 tagline: 
 tags : [intro, beginner, ios, course]
 title: Instructors
