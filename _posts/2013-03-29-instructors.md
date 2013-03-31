@@ -23,8 +23,8 @@ title: Instructors
 
 <p>
   <h3>Cong Vo (<a href="https://twitter.com/athanhcong" target="_blank">@athanhcong</a>)</h3>
-  Cong built <a href="https://itunes.apple.com/us/app/babygram-pregnancy-baby-journal/id563143651"  target="_blank">Babygram</a>,<i> a private network for family </i><br/>
-    He also built iOS Challenge App for this program
+  Cong built <a href="https://itunes.apple.com/us/app/babygram-pregnancy-baby-journal/id563143651"  target="_blank">Babygram</a>,<i> a private network for family.</i><br/>
+  He also built iOS Challenge App for this program.
 </p>
 
 <p>

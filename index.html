@@ -132,9 +132,9 @@ body {
 .carousel-caption {
   background-color: transparent;
   position: absolute;
-  max-width: 550px;
-  padding: 0 20px;
   bottom: 10%;
+  width: 100%;
+  text-align: center;
 }
 .carousel-caption h1,
 .carousel-caption .lead {
@@ -143,15 +143,25 @@ body {
   color: #fff;
   text-shadow: 0 1px 1px rgba(0,0,0,.4);
 }
-.carousel-caption .btn {
+.action-btn {
   margin-top: 10px;
 
   -webkit-border-radius: 22px;
   -moz-border-radius: 22px;
   border-radius: 22px;
+      background: #414141;
+          padding-left: 10px;
+    padding-right: 10px;
+
+    padding: 6px 10px 8px;
+    color: white;
+    text-decoration: none;
 }
 
-
+a:hover{
+color: white;
+text-decoration: none;
+}
 
 /* MARKETING CONTENT
 -------------------------------------------------- */
@@ -300,13 +310,11 @@ body {
 ================================================== -->
 <div id="myCarousel" class="carousel slide">
     <div class="item active">
-      <img src="../assets/img/challenge-banner.png" alt="">
       <div class="container">
-        <div class="carousel-caption">
-          <h1></h1>
-          <p class="lead"></p>
-<!--           <a class="btn btn-large btn-primary" href="http://app.30d.me" target="_blank">Download from Appstore</a>
- -->        </div>
+          <img src="../assets/img/challenge-banner.png" alt="">
+          <div class="carousel-caption" style="width: 775px;">
+             <a class="action-btn" href="http://30d.me/challenge/ios" target="_blank">Challenge App now is used for "30 Day iOS Challenge" Program</a>
+           </div>
       </div>
     </div>
   </div>
