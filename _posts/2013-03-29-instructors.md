@@ -7,15 +7,6 @@ title: Instructors
 ---
 {% include JB/setup %}
 
-<style type="text/css">
-  .view-pages .content a {
-    border-bottom: 0px;
-  }
-  body {
-    line-height: 180%;
-  }
-</style>
-
 <p>
   <h3>Bryan Lee (<a href="https://twitter.com/leetucksing" target="_blank">@leetucksing</a>)</h3>
   Bryan start his iOS Challenge 4 months ago, now becomes a teaching assistant on this course.
