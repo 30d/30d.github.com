@@ -1,6 +1,6 @@
 ---
 layout: post
-category : [challenge, 30d-ios]
+category : challenge
 tagline: 
 tags : [intro, beginner, ios, course]
 title: Instructors
