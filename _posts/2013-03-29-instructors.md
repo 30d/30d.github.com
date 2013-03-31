@@ -1,11 +1,20 @@
 ---
 layout: post
-category : challenge
+category : ios
 tagline: 
 tags : [intro, beginner, ios, course]
 title: Instructors
 ---
 {% include JB/setup %}
+
+<style type="text/css">
+  .view-pages .content a {
+    border-bottom: 0px;
+  }
+  body {
+    line-height: 180%;
+  }
+</style>
 
 <p>
   <h3>Bryan Lee (<a href="https://twitter.com/leetucksing" target="_blank">@leetucksing</a>)</h3>
