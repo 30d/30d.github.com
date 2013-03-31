@@ -1,65 +1,43 @@
 ---
 layout: post
-category : challenge
+category : [challenge, ios]
 tagline: 
 tags : [intro, beginner, ios, course]
-title: Introduce "30 Day iOS Challenge"
+title: Instructors
 ---
 {% include JB/setup %}
 
-Did you ever want or plan to learn to code? If yes, this is the time to get start and build apps.
+<style type="text/css">
+  .view-pages .content a {
+    border-bottom: 0px;
+  }
+  body {
+    line-height: 180%;
+  }
+</style>
 
-Learning to code is hard, even harder if you learn alone. So join us this April on a 30-day iOS Challenge!
+<p>
+  <h3>Bryan Lee (<a href="https://twitter.com/leetucksing" target="_blank">@leetucksing</a>)</h3>
+  Bryan start his iOS Challenge 4 months ago, now becomes a teaching assistant on this course.
+</p>
 
-##Why 30 Day Challenge?
+<p>
+  <h3>Cong Vo (<a href="https://twitter.com/athanhcong" target="_blank">@athanhcong</a>)</h3>
+  Cong built <a href="https://itunes.apple.com/us/app/babygram-pregnancy-baby-journal/id563143651"  target="_blank">Babygram</a>,<i> a private network for family </i><br/>
+    He also built iOS Challenge App for this program
+</p>
 
-If you do something everyday for 30 days, it likely becomes a habit. This's also true for programming. You need to make programming become one of your habits, because _if you don't use it often, you may lose it._ 
+<p>
+  <h3>Daniel Hum (<a href="https://twitter.com/" target="_blank">@danielhum</a>)</h3>
+  Daniel built <a href="http://burrple.com"  target="_blank">Burrple</a>, <i>an awesome journal app for foodies.</i>
+</p>
 
-Our iOS Challenge is inspired from this TED talk:
-<iframe width="560px" height="315px" src="http://embed.ted.com/talks/lang/en/matt_cutts_try_something_new_for_30_days.html" frameborder="0" scrolling="no">
-</iframe>
- 
+<p>
+  <h3>Lucas Ngoo (<a href="https://twitter.com/" target="_blank">@lucasngoo</a>)</h3>
+  Lucas built <a href="http://carousell.com"  target="_blank">Carousell</a>, <i>a marketplace where your retailer dream comes true.</i>
 
-So, let's try! Give yourself a challenge for a minimum of 30 days to build your habit of programming.
-
-##30 Day iOS Challenge 
-
-This program focuses on self-study groups, with SIX workshops that are conducted by "Professional Instructors".
-
-We hope to create an environment where you don't need to study alone anymore. Students will join together into small groups. Everyone can see progress of each member in the group via __iOS Challenge app__. Members will remind and encourage each other to finish their challenge.
-
-Start Day: 7 April to 7 May
-
-Tutorials will be provided online. SIX workshop days and Demo day are as follows:
-
-  - Week 1: 2 sessions on Monday 8th, Wednesday 10th April
-
-  - Week 2: 2 sessions on Monday 15th, Wednesday 17th April
-
-  - Week 3: 1 sessions on Wednesday 24th April
-
-  - Week 4: 1 sessions on Wednesday 1st May
-  
-  - __DEMO Day: Wednesday 8th May!__
-
-Venue: [Plugins@Blk71](http://www2.blk71.com/)
-
-Time: 7PM to 9PM.
-
-##Can anyone join the iOS Challenge?
-This program doesn't require you to have a programming background. The main requirement is you really need a strong passion to create things, and to be a builder.
-
-We only choose 20 students for April class.
-
-##What do you need?
-A Macbook to code and an iPhone (or iPod, iPad).
-
-##One more thing!
-To help you get motivated, when attending, you need to put in S$20. We give you back all, if you can finish your 30 Day Challenge!
-
-## Register here
-<<<a href="https://docs.google.com/forms/d/1GX6XK6Kp82DOA3Jmsvjr3-GbbT_ytYlhlA-7RAILsjg/viewform" target="_blank">Registering Form</a>>>
-
-_
-
-_PS: This program is not intended to replace other iOS Training by top experts. Our mission is to give support to self-study of programming while utilizing free online tutorials and friend-to-friend motivation._
+</p>
+<p>
+  <h3>Steve Sng (<a href="https://twitter.com/" target="_blank">@stevesng</a>)</h3>
+  Steve built <a href="http://lovebyte.us"  target="_blank">Lovebyte</a>, <i>a super cute app for couple.</i>
+</p>
