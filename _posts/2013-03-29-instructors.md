@@ -33,11 +33,11 @@ title: Instructors
 </p>
 
 <p>
-  <h3>Lucas Ngoo (<a href="https://twitter.com/" target="_blank">@lucasngoo</a>)</h3>
-  Lucas built <a href="http://carousell.com"  target="_blank">Carousell</a>, <i>a marketplace where your retailer dream comes true.</i>
+  <h3>Lucas Ngoo (<a href="https://twitter.com/lucasngoo" target="_blank">@lucasngoo</a>)</h3>
+  Lucas built <a href="http://carousell.com"  target="_blank">Carousell</a>, <i>Asia's FIRST marketplace designed for your iPhone.</i>
 
 </p>
 <p>
-  <h3>Steve Sng (<a href="https://twitter.com/" target="_blank">@stevesng</a>)</h3>
+  <h3>Steve Sng (<a href="https://twitter.com/stevesng" target="_blank">@stevesng</a>)</h3>
   Steve built <a href="http://lovebyte.us"  target="_blank">Lovebyte</a>, <i>a super cute app for couple.</i>
 </p>
