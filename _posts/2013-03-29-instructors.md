@@ -41,3 +41,10 @@ title: Instructors
   <h3>Steve Sng (<a href="https://twitter.com/stevesng" target="_blank">@stevesng</a>)</h3>
   Steve built <a href="http://lovebyte.us"  target="_blank">Lovebyte</a>, <i>a super cute app for couple.</i>
 </p>
+
+<p>&nbsp;</p>
+
+<h1>Keep in touch</h1>
+For question and getting update when we have new challenge! 
+
+Follow our [Challenge Facebook page](https://www.facebook.com/pages/Challenge/509824205720254).
