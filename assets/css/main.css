@@ -303,8 +303,8 @@ body { line-height: 100% }
 }
 
 .view-pages .content a {
-    border-bottom: 1px solid #F39C12;
-    color: #E67E22;
+/*    border-bottom: 1px solid #F39C12;
+    color: #E67E22;*/
     text-decoration: none;
 }
 .view-pages .content a:hover { border-color: #E67E22 }
