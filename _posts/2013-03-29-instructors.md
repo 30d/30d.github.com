@@ -28,7 +28,7 @@ title: Instructors
 </p>
 
 <p>
-  <h3>Daniel Hum (<a href="https://twitter.com/" target="_blank">@danielhum</a>)</h3>
+  <h3>Daniel Hum (<a href="https://twitter.com/hsadan" target="_blank">@hsadan</a>)</h3>
   Daniel built <a href="http://burrple.com"  target="_blank">Burrple</a>, <i>an awesome journal app for foodies.</i>
 </p>
 
