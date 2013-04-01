@@ -34,7 +34,7 @@ title: Instructors
 
 <p>
   <h3>Lucas Ngoo (<a href="https://twitter.com/lucasngoo" target="_blank">@lucasngoo</a>)</h3>
-  Lucas built <a href="http://carousell.com"  target="_blank">Carousell</a>, <i>Asia's FIRST marketplace designed for your iPhone.</i>
+  Lucas built <a href="http://thecarousell.com/"  target="_blank">Carousell</a>, <i>Asia's FIRST marketplace designed for your iPhone.</i>
 
 </p>
 <p>
