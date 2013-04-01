@@ -29,7 +29,7 @@ title: Instructors
 
 <p>
   <h3>Daniel Hum (<a href="https://twitter.com/hsadan" target="_blank">@hsadan</a>)</h3>
-  Daniel built <a href="http://burrple.com"  target="_blank">Burrple</a>, <i>an awesome journal app for foodies.</i>
+  Daniel built <a href="http://burpple.com"  target="_blank">Burpple</a>, <i>an awesome journal app for foodies.</i>
 </p>
 
 <p>
